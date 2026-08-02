@@ -1,2 +1,4 @@
-# dl-genai-project-26-t2
-Gen-AI project
+# Milestone 4
+- Learnings:
+  - AutoModelForMultipleChoice
+  - Use of LoRA to make Learning Efficient.
